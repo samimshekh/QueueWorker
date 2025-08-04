@@ -44,7 +44,7 @@ pecl install parallel
 ```
 ## setup 
 ```bash
-git clone https://github.com/samimshekh/task-system.git
+https://github.com/samimshekh/QueueWorker.git
 cd task-system
 composer install
 ```
