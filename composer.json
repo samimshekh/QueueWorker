@@ -1,0 +1,27 @@
+{
+    "name": "mscode/task-system",
+    "description": "High-performance PHP task worker system using UNIX sockets and multithreading.",
+    "version": "1.0.0",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["task", "worker", "php", "unix socket", "parallel", "thread", "psr-4"],
+    "homepage": "https://github.com/samimshekh/task-system",
+    "support": {
+        "issues": "https://github.com/samimshekh/task-system/issues",
+        "source": "https://github.com/samimshekh/task-system"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mscode\\Task\\": "Task/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Samim Shekh",
+            "role": "Developer"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
